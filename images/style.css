@@ -1,0 +1,40 @@
+/* Global Styling */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+/* Header Styling */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(255,255,255,.97);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding-top
+}
+/* Left link styling */
+header .leftlink{
+   color: rgba(0,0,0, .54);
+   text-decoration: none;
+   color: rgba(0,0,0,.54);
+}
+
+/* Logo image styling */
+header .logo img {
+    max-height: 75px;
+}
+
+/* Right Link Styling */
+header .rightlink a {
+  text-transform: capitalize;
+}
+
+/* Right Link Button Styling */
+header .rightlink button {
+    text-transform: capitalize;
+    padding: 4px 5px;
+}
+
+header .
